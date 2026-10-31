@@ -1,0 +1,5 @@
+std = "roblox"
+
+[lints]
+mixed_table = "allow"
+incorrect_standard_library_use = "allow"

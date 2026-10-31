@@ -1,0 +1,15 @@
+# Wally
+Packages/
+ServerPackages/
+DevPackages/
+
+# Rojo / generated
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Local secrets and machine files
+roblox.toml.local
+.DS_Store
